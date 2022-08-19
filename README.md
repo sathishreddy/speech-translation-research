@@ -8,6 +8,7 @@ Resource on speech translation research
 * ACL 2020 Theme paper: [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
 * INTERSPEECH 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
 ### Simultaneous
+* ACL 2019 Keynote Speech: [Simultaneous Translation](https://www.youtube.com/watch?v=DaB6znnhGJI)
 * EMNLP 2020 tutorail: [Simultaneous Translation](https://virtual.2020.emnlp.org/tutorial_T6.html)
 * CVPR 2021 Invited Talk: [Simultaneous Translation: Breakthrough and Recent Progress](https://www.youtube.com/watch?v=4gYSmCosMaA)
 ## Data
