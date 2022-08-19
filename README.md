@@ -2,11 +2,12 @@ Resource on speech translation research
 ======
 
 ## Tutorial
-### Offline
-* EACL 2021 tutorial: [Speech Translation](https://st-tutorial.github.io)
+### Speech-to-text translation
 * Blog: [Getting Started with End-to-End Speech Translation](https://towardsdatascience.com/getting-started-with-end-to-end-speech-translation-3634c35a6561)
 * ACL 2020 Theme paper: [Speech Translation and the End-to-End Promise: Taking Stock of Where We Are](https://arxiv.org/pdf/2004.06358.pdf)
 * INTERSPEECH 2019 survey talk: [Spoken Language Translation](https://www.youtube.com/watch?v=beB5L6rsb0I)
+### Speech-to-speech translation
+* EACL 2021: [Speech Translation Tutorial](https://st-tutorial.github.io)
 ### Simultaneous
 * ACL 2019 Keynote Speech: [Simultaneous Translation](https://www.youtube.com/watch?v=DaB6znnhGJI)
 * EMNLP 2020 tutorail: [Simultaneous Translation](https://virtual.2020.emnlp.org/tutorial_T6.html)
